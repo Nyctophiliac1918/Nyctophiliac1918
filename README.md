@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Nyctophiliac1918/Nyctophiliac1918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,11 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋, I am Amol!
+### Hi there 👋, I am Karan!
 
-<img src="https://img.shields.io/github/followers/AmolSamota?style=social"/>
+<img src="https://img.shields.io/github/followers/Nyctophiliac1918?style=social"/>
 
-![Profile Views](https://gpvc.arturio.dev/AmolSamota)
+![Profile Views](https://gpvc.arturio.dev/Nyctophiliac1918)
 
 <p>
  <i>
@@ -43,8 +41,8 @@ Here are some ideas to get you started:
 </p> -->
 ### GitHub Stats:
 <p align="center">
-  <a href="https://github.com/AmolSamota">
-    <img src="https://github-readme-stats.vercel.app/api?username=AmolSamota&show_icons=true&hide=issues&theme=radical"/>
+  <a href="https://github.com/Nyctophiliac1918">
+    <img src="https://github-readme-stats.vercel.app/api?username=Nyctophiliac1918&show_icons=true&hide=issues&theme=radical"/>
   </a>
 </p>
 
@@ -52,11 +50,11 @@ Here are some ideas to get you started:
 
 ### Top Languages: 
 <p align="center">
-  <a href="https://github.com/AmolSamota">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmolSamota&theme=radical" align="center" />
+  <a href="https://github.com/Nyctophiliac1918">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyctophiliac1918&theme=radical" align="center" />
   </a>
 </p>
-
+<!-- 
 ---
 
 ### Find Me On:
@@ -66,7 +64,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/amol.samota/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
 </p>
 
----
+--- -->
 
 <!-- ### My Portfolio: [Amol Samota](https://amolsamota.netlify.app/) -->
 <!-- ### My Codeforces Profile: [amol.samota](https://codeforces.com/profile/amol.samota) -->
